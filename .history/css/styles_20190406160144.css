@@ -1,0 +1,10 @@
+ul {
+    list-style-type: circle;
+    list-style-position: inside;
+    list-style-image: url(../img/icon.png)
+}
+
+ol {
+    list-style-type: square;
+    list-style-position: none;
+}
