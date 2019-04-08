@@ -1,0 +1,22 @@
+.box {
+  width: 100px;
+  height: 100px;
+  margin-bottom: 20px;
+}
+
+.box1 {
+  background-color: orange;
+  box-shadow: 10px 5px rgba(0, 0, 0, .3);
+  text-shadow: 10px 5px rgba(0, 0, 0, .3);
+}
+
+.box2 {
+  background-color: skyblue;
+  box-shadow: 10px 5px 3px rgba(0, 0, 0, .3);
+  text-shadow: 10px 5px 3px rgba(0, 0, 0, .3);
+}
+
+.box3 {
+  background-color: tomato;
+  box-shadow: 10px 5px 3px 10px rgba(0, 0, 0, .3);
+}

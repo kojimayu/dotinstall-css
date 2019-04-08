@@ -1,0 +1,17 @@
+.box {
+  width: 100px;
+  height: 100px;
+}
+
+.box1 {
+  background-color: orange;
+}
+
+.box2 {
+  background-color: skyblue;
+  border: 5px solid blue;
+}
+
+.box3 {
+  background-color: tomato;
+}

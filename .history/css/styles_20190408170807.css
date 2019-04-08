@@ -1,0 +1,30 @@
+.box {
+  width: 100px;
+  height: 100px;
+}
+
+.box1 {
+  background-color: orange;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.box2 {
+  background-color: skyblue;
+  position: absolute;
+  top: 30px;
+  left: 30px;
+}
+
+.box-b {
+  position: absolute;
+  top: 30px;
+  left: 30px;
+}
+.box3 {
+  background-color: tomato;
+  position: absolute;
+  top: 60px;
+  left: 60px;
+}

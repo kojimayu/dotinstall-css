@@ -1,0 +1,17 @@
+.box {
+  width: 100px;
+  height: 100px;
+}
+
+.box1 {
+  background-color: orange;
+  box-shadow: 10px 5px rgba(0, 0, 0, 0);
+}
+
+.box2 {
+  background-color: skyblue;
+}
+
+.box3 {
+  background-color: tomato;
+}
