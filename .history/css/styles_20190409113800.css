@@ -7,7 +7,5 @@ img {
 }
 
 h2 {
-  /* clear: left;
-  clear: right; */
-  clear: both;
+  clear: left;
 }
