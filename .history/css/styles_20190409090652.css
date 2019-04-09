@@ -1,0 +1,6 @@
+/* .main > p:nth-child(3) {
+  background-color: pink;
+} */
+.main > p:nth-child(3n) {
+  background-color: pink;
+}

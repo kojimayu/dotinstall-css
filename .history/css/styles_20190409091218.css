@@ -13,9 +13,9 @@
 /* .main > p:first-child {
   background-color: pink;
 } */
-/* .main > p:not(:last-child) {
+.main > p:not(:last-child) {
   background-color: skyblue;
-} */
+}
 .main > p:not(:last-child) {
   border-bottom: 1px dashed silver;
 }

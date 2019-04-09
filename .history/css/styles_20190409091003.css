@@ -10,12 +10,9 @@
 .main > p:nth-child(even){
   background-color: skyblue;
 } */
-/* .main > p:first-child {
+.main > p:first-child {
   background-color: pink;
-} */
-/* .main > p:not(:last-child) {
+}
+.main > p:last-child {
   background-color: skyblue;
-} */
-.main > p:not(:last-child) {
-  border-bottom: 1px dashed silver;
 }
